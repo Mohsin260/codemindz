@@ -21,7 +21,7 @@ const About = () => {
           <AccordionItem value="item-3">
             <AccordionTrigger>Our Approach</AccordionTrigger>
             <AccordionContent>
-              We combine agile methodologies with the latest technologies to deliver scalable, efficient, and user-friendly solutions tailored to our clients' needs.
+              We combine agile methodologies with the latest technologies to deliver scalable, efficient, and user-friendly solutions tailored to our clients&apos; needs.
             </AccordionContent>
           </AccordionItem>
         </Accordion>
